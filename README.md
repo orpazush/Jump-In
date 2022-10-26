@@ -30,12 +30,12 @@
    - 4. 'undo' - to cancel the last movement
   
  * Parts Rules:                                                              
- * Mushrooms:
+ * Mushrooms🍄:
    - are stationary & cannot be moved (1 space on the board)                    
- * Foxes:
+ * Foxes🦊:
    - can only move backward or forward. 
    - foxes cannot jump over obstacles (2 spaces on the board)                                              
- * Rabbits:
+ * Rabbits🐰:
    - move by jumping horizontally or vertically over one or more     
      spaces with obstacles (other rabbits, mushrooms, foxes or       
      combination of these)                                           
